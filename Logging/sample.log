@@ -1,0 +1,6 @@
+1    [main] WARN  com.pack.Main_Logging  - Sample warn message
+1    [main] ERROR com.pack.Main_Logging  - Sample error message
+1    [main] FATAL com.pack.Main_Logging  - Sample fatal message
+1    [main] WARN  com.pack.Main_Logging  - Sample warn message
+1    [main] ERROR com.pack.Main_Logging  - Sample error message
+1    [main] FATAL com.pack.Main_Logging  - Sample fatal message
